@@ -2,6 +2,8 @@
 
 The exception bundle was created for the planmylife.io to manage all exceptions.
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/9ff50606-e5af-481d-9ed0-10f54c742d84/mini.png)](https://insight.sensiolabs.com/projects/9ff50606-e5af-481d-9ed0-10f54c742d84)
+
 ## Installation
 
 ### Step 1: Download the Bundle
