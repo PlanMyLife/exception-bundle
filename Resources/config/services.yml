@@ -2,8 +2,8 @@ services:
     pml.exception:
         class: '%pml_exception.class%'
         arguments:
-            templateEngine: "@templating"
-            kernel: "@kernel"
-            layout: "%pml_exception.layout%"
+            - "@templating"
+            - "@kernel"
+            - "%pml_exception.layout%"
         tags:
             - { name: kernel.event_listener, event: kernel.exception, method: onKernelException }
